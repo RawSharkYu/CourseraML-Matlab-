@@ -1,0 +1,4 @@
+This is the submission of 1st homework in week 2.
+This homework is about linear regression and gradient descent.
+I have completed the graded homework ( computeCost.m and gradientDescent.m) 
+and optional homework ( featureNormalize.m,computeCostMulti.m, gradientDescentMulti.m).
